@@ -93,12 +93,16 @@ div.campo > input{
 }
 
 form > div.campo > span{
-    background-color:rgb(182, 177, 177)   ;
+    background-color:rgb(182, 177, 177) ;
     font-size: 2em;
     width: 40px;
     padding: 4px;
     border-radius: 8px;
  
+ }
+
+ div.campo > label{
+    display: none;
  }
 
 
